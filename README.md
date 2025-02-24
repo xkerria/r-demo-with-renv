@@ -1,8 +1,3 @@
----
-title: "README"
-output: html_document
----
-
 ## 包安装
 1. 打开项目以后，只需要在 Console 中运行一句代码：`renv::restore()` 就会一次性安装
 项目所有需要的包
