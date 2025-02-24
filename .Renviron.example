@@ -1,0 +1,6 @@
+# 项目环境变量
+# 对该文件做出修改后，请点击 RStudio 菜单栏的 Session -> Restart R 重启 Session
+# 改变才能生效
+
+OPENGWAS_JWT=
+
